@@ -1,7 +1,9 @@
 # Course Content For The First Project
-##Italicized Writings Are My Answers
+
+## Italicized Writings Are My Answers
 
 **Content**
+
 (0:04:32) Chapter 1: Setting up the tools
 Tools
 Installing C++ Compilers on Windows
