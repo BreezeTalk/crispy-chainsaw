@@ -1,6 +1,6 @@
 # Course Content For The First Project
 
-> Italicized Writings Are My Answers
+> *Italicized Writings Are My Notes*
 
 **Content**
 
