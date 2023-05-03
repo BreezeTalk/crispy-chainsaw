@@ -4,7 +4,7 @@
 
 **Content**
 
-(0:04:32) Chapter 1: Setting up the tools
+(0:04:32) Chapter 1: Setting up the tools.
 Tools.
 Installing C++ Compilers on Windows.
 Installing VS Code on Windows.
